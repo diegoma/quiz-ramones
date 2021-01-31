@@ -1,0 +1,76 @@
+{
+    "bg": "https://popfantasma.com.br/wp-content/uploads/2017/11/rocket-to-russia-ramones.jpg",
+    "title": "Quiz dos Ramones #AluraQuiz",
+    "description": "Um quiz rápido sobre o mundo do JavaScript",
+    "questions": [{
+            "image": "https://media3.giphy.com/media/l0EwYELMqOxgoMMx2/giphy.gif",
+            "title": "Qual o nome do famoso lugar de Nova York onde os RAMONES se apresentavam?",
+            "answer": 1,
+            "alternatives": [
+                "The Madison Square Garden",
+                "CBGBs",
+                "Time Square",
+                "Central Park"
+            ]
+        },
+        {
+            "image": "https://media3.giphy.com/media/YFHVtXjrggbZxH9fjf/giphy.gif",
+            "title": "Que os RAMONES são a mais importante banda de Punk da histórias nós sabemos, mas qual dessas bandas ficou tão famosa quanto apenas pelo visual dos seus integrantes?",
+            "answer": 2,
+            "alternatives": [
+                "The Clash",
+                "É o Tchan",
+                "Sex Pistols",
+                "The Cure"
+            ]
+        },
+        {
+            "image": "https://media4.giphy.com/media/13nknukmBdULhS/giphy.gif?cid=ecf05e472s2gsgoioiqqld07sxd2qpewchut42aej5ztyjh1&rid=giphy.gif",
+            "title": "Além dos longos e sedosos cabelos, os integrantes dos RAMONES carregavam uma vestimenta bem caracteristica, qual é essa vestimenta?",
+            "answer": 3,
+            "alternatives": [
+                "Colares de Cruzes",
+                "Botas com Couro de Cobra",
+                "Ternos",
+                "Jaquetas de Couro"
+            ]
+        },
+        {
+            "image": "https://media4.giphy.com/media/R42dif3qGfpLi/giphy.gif",
+            "title": "Ao longos dos anos os Ramones tiveram vários integrantes, quantos integrantes passaram pela banda?",
+            "answer": 3,
+            "alternatives": [
+                "4",
+                "10",
+                "7",
+                "9"
+            ]
+        },
+        {
+            "image": "https://media2.giphy.com/media/2898IMdqG7HRDj9McW/giphy.gif",
+            "title": "No Brasil existiu uma banda de Rock dos Anos 90 que tiveram forte influência dos Ramones, inclusive no nome, qual banda é essa?",
+            "answer": 0,
+            "alternatives": [
+                "Raimundos",
+                "Vermes do Espaço",
+                "Sepultura",
+                "Mondo Bizarro"
+            ]
+        }
+    ],
+    "external": [
+        "https://aluraquiz-css.omariosouto.vercel.app/",
+        "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+    ],
+    "theme": {
+        "colors": {
+            "primary": "#971243",
+            "secondary": "#d81b60",
+            "mainBg": "#df487f",
+            "contrastText": "#FFFFFF",
+            "wrong": "#FF5722",
+            "success": "#4CAF50"
+        },
+        "borderRadius": "4px"
+    }
+}
